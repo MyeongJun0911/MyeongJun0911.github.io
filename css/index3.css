@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/source5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    opacity: 0;
+    
+    z-index: 0;
+}
+
+.news{
+    position: absolute;
+    opacity: 0.5;
+}
+
+#button1{
+
+    left: 20%;
+    top: 63%;
+
+    width: 300px;
+    height: 150px;
+
+}
+
+
+#button2{
+    
+    left: 52%;
+    top: 82%;
+
+    width: 300px;
+    height: 150px;
+
+}
+
+#button3{
+    
+    left: 10%;
+    top: 82%;
+
+    width: 300px;
+    height: 150px;
+
+}
+#button4{
+    
+    left: 5%;
+    top: 45%;
+
+    width: 300px;
+    height: 150px;
+
+}
+

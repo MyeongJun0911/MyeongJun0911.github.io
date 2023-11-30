@@ -1,0 +1,26 @@
+body{
+    background-image: url("../images/source4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    z-index: 0;
+}
+
+.door{
+    z-index: 1;
+    top: 10%;
+
+    width: 250px;
+    height: 700px;;
+    position: absolute;
+    opacity: 0.5;
+}
+
+#leftDoor{
+    left: 2%;
+}
+
+#rightDoor{
+    left: 85%;
+}
